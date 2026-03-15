@@ -1,0 +1,6 @@
+google-ads.yaml
+google-ads-config.json
+generate_refresh_token.py
+__pycache__/
+.env
+*.pyc
